@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(179, 220, 234);
+    font-family: monospace;
+}
+.titulo{
+    text-align: center;
+    margin: 3%;
+}
+section{
+    border-bottom: solid;
+}
